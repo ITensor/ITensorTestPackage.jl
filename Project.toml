@@ -1,6 +1,6 @@
 name = "ITensorTestPackage"
 uuid = "843e44b4-204a-49e5-b531-f6a528cd7bee"
-version = "0.2.0-DEV"
+version = "0.2.0"
 authors = ["ITensor developers <support@itensor.org> and contributors"]
 
 [workspace]
