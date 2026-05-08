@@ -1,0 +1,8 @@
+[deps]
+ITensorTestPackage = "843e44b4-204a-49e5-b531-f6a528cd7bee"
+
+[sources.ITensorTestPackage]
+path = ".."
+
+[compat]
+ITensorTestPackage = "0.1"

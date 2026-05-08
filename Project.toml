@@ -1,0 +1,10 @@
+name = "ITensorTestPackage"
+uuid = "843e44b4-204a-49e5-b531-f6a528cd7bee"
+version = "0.1.0"
+authors = ["ITensor developers <support@itensor.org> and contributors"]
+
+[workspace]
+projects = ["benchmark", "dev", "docs", "examples", "test"]
+
+[compat]
+julia = "1.10"
