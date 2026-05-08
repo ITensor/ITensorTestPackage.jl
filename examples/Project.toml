@@ -5,4 +5,4 @@ ITensorTestPackage = "843e44b4-204a-49e5-b531-f6a528cd7bee"
 path = ".."
 
 [compat]
-ITensorTestPackage = "0.2"
+ITensorTestPackage = "0.3"

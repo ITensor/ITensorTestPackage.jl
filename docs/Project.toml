@@ -9,4 +9,4 @@ path = ".."
 [compat]
 Documenter = "1"
 ITensorFormatter = "0.2.27"
-ITensorTestPackage = "0.2"
+ITensorTestPackage = "0.3"
